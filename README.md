@@ -1,3 +1,4 @@
+# Synchrony
 A device to test the synchrony of stepper motors. Designed and simulated to get the expected output, this device holds the potential to perform several tests over and over again once set up and calibrated properly. A custom Motor driver shield is what makes this product very reliable.  All the required files, codes, schematics, 3D model and an Instruction manual has been provided 
 
 Getting Started:
